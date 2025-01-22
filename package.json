@@ -1,0 +1,19 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon src/app.js"
+    
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Ezaan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
